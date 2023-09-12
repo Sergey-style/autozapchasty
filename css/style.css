@@ -450,6 +450,7 @@ margin-bottom: 17px;
 /*--------------------------------------------------------------------------------------*/
 .off {
 	background:url('../img/layer_6_336.png')0 0/cover no-repeat;
+	background-position: center;
 	padding: 187px 0 85px 0;
 }
 
